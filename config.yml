@@ -1,0 +1,14 @@
+# Copy the kit code below into the kits section in your config.yml file
+kits:
+  Potion_makes:
+    delay: 50000
+    items:
+    - SPLASH_POTION 1
+    - SPLASH_POTION 1
+    - SPLASH_POTION 1
+    - SPLASH_POTION 1
+    - SPLASH_POTION 1
+    - SPLASH_POTION 1
+    - SPLASH_POTION 1
+    - SPLASH_POTION 1
+    - SPLASH_POTION 1
